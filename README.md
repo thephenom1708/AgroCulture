@@ -3,6 +3,11 @@
 - It will help farmers to commertialize their product on a online digital platform to increase the radius of their market .
 - The main motto is to cut loose all the commission consumed by the third party people involved in journey of the product to the consumer.
 
+## Technology Stack
+* Frontend Development : HTML, CSS, Bootstrap3, Vanilla JS
+* Server side : PHP
+* Database Management : MySQL
+
 ## Traditional Way
 * Farmer     --> APMC (Agriculture Produce Market Committee )
 * APMC       --> Wholesaler ( Securing his share 2%-10% )

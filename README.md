@@ -8,7 +8,7 @@
 * Server side : PHP
 * Database Management : MySQL
 
-## Traditional Way
+## Traditional Way of Farming Chain
 * Farmer     --> APMC (Agriculture Produce Market Committee )
 * APMC       --> Wholesaler ( Securing his share 2%-10% )
 * Wholesaler --> Retailer ( Securing his share roughly 10% )   
